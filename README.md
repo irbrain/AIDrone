@@ -18,7 +18,7 @@ The coding drone competitions and AI drone challenges offer practical project ex
 
 ### 1. Flight Controller (FC) Board:
 
-     -  MCU: NRF51822 
+     -  MCU: NRF52833
 
      -  6-axis accelerometer and gyroscope Sensor: ICM-20602 
 
